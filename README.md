@@ -1,6 +1,8 @@
-# Nylas API MCP Server
+# Nylas API MCP Server (Experimental)
 
-This project implements a Model Context Protocol (MCP) server for the Nylas API. It provides comprehensive resources, tools, and prompts to help developers integrate with the Nylas API for email, calendar, and contacts functionality.
+> **Note**: This project is experimental and is intended as an exploration of using the Model Context Protocol (MCP) as a guide for Nylas API integrations. It is not official and should be used for learning and experimentation purposes only.
+
+This project implements a Model Context Protocol (MCP) server for the Nylas API. It provides resources, tools, and prompts to help developers learn about and integrate with the Nylas API for email, calendar, and contacts functionality.
 
 ## What is MCP?
 
@@ -121,6 +123,12 @@ Contributions are welcome! You can:
 2. Improve documentation resources
 3. Add support for additional programming languages
 4. Create new tools and prompts
+
+## Disclaimer
+
+This is an experimental project and is not officially supported by Nylas. The information and code provided through this MCP server should be used as a learning resource only. Always refer to the [official Nylas documentation](https://developer.nylas.com/) for the most accurate and up-to-date information on the Nylas API.
+
+The sample code provided is for educational purposes and may need additional error handling, security considerations, and testing before being used in production environments.
 
 ## License
 

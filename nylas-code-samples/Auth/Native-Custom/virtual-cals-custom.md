@@ -1,0 +1,3 @@
+For _most_ projects migrating from v2.x to v3, the first step is to upgrade authentication. However, since Virtual Calendars use [Custom Authentication](/docs/api/v3/admin/#post-/v3/connect/custom) (previously called "Native Authentication"), you get to skip worrying about scopes and provider auth apps, and just update how you authorize your API calls to the v3 method, and update the Custom auth API calls themselves.
+
+In fact, you don't actually need to upgrade to use Custom Authentication until you want to make new virtual accounts. We'll show the instructions for you so you have them for when you get to that point.

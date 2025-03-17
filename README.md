@@ -15,6 +15,8 @@ This MCP server provides:
 - **Interactive Tools**: Tools to generate authentication code and endpoint-specific implementation code
 - **Prompts**: Pre-built prompts for common Nylas integration scenarios
 
+![Screenshot 2025-03-16 at 4 43 38 PM](https://github.com/user-attachments/assets/01436765-2eb8-4d8b-90ab-f0a8544355db)
+
 ## Getting Started
 
 ### Prerequisites
